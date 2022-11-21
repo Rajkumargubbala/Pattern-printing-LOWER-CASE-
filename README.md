@@ -1,1 +1,0 @@
-# Pattern-printing-LOWER-CASE-
